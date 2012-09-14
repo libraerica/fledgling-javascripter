@@ -1,0 +1,58 @@
+@font-face {
+	font-family: "High Fiber";
+	src: url("High Fiber.ttf");
+}
+
+h1, h2 {
+	font-family: "High Fiber";
+}
+
+.column-left h3 {
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+#title h1 {
+	line-height: 50px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+#title h2 {
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.column-left {
+	border-right: 1px solid #dddddd;
+	padding-top: 35px;
+	padding-right: 50px;
+}
+
+.column-right {
+	padding-top: 35px;
+	margin-left: 49px;
+}
+
+#title {
+	border-bottom: 1px solid #dddddd;
+}
+
+.minimal-list li {
+	border-bottom: 1px solid #dddddd;	
+	padding: 5px 0px; 
+}
+
+.minimal-list li a {
+	color: #666666;
+}
+
+.pop-color {
+	color: #FF0000;
+	margin-bottom: 20px;
+}
+
+#moi {
+	float:left;
+	margin:0 20px 0px 0;
+}

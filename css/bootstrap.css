@@ -162,7 +162,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background-color: #ffffff;
+  background-color: ###FFFFFF;
 }
 
 a {
@@ -635,7 +635,8 @@ h6 small {
 
 h1 {
   font-size: 36px;
-  line-height: 40px;
+  line-height: 60px;
+  color: #000000;
 }
 
 h2 {
@@ -3664,7 +3665,8 @@ input[type="submit"].btn.btn-mini {
 .nav-list .nav-header {
   margin-right: -15px;
   margin-left: -15px;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  text-shadow: 0 1px; 
+  color: #64647D;
 }
 
 .nav-list > li > a {
